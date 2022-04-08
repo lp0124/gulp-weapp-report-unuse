@@ -1,0 +1,16 @@
+{
+  "name": "gulp-weapp-report-unuse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "lp0124",
+  "license": "ISC",
+  "devDependencies": {
+    "through2": "^4.0.2"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.17.9",
+    "@babel/traverse": "^7.17.9",
+    "htmldom": "^3.0.4"
+  }
+}

@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.vscode
+.cache
+/dist
+/node_modules
+ci/node_modules
+yarn-error.log
+yarn.lock
+src/project.config.weixin.json
+src/project.private.config.json
